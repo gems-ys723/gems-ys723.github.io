@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 宋予樊
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Song Yu Fan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yufan
+last_name: Song
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Imperial College London
     url: https://openai.com/
 
 # Social network links
