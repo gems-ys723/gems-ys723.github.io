@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Yufan Song is now a PhD student at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am now a PhD student in Aeronautics Department at Imperial College London, supervised by Prof. Hwang Yongyun. My research interests based on the intersection between math and computational fluid dynamics. More specifically, it includes nolinear and instability theory for turburlence, numerical methods for odes/pdes and birfurcation theory. I am in the Instability, Turbulence & Pattern Formation Group.
